@@ -13,6 +13,6 @@ algorithm
 
 # How to Invoke the code
 We have to change the Code file to Read Image. We have to give the hard coded path to the file in readGraph() function.
-As a Example f = new File("C:\\Users\\Somnath Paul\\Desktop\\Image.jpg");
+As a Example f = new File("C:\\Users\\Kirti Sharma\\Desktop\\Image.jpg");
 And We gate Output on the Pre-set path , which we can change that in code file , PrintImage() function
-By default f = new File("C:\\Users\\Somnath Paul\\Desktop\\Output.jpg");
+By default f = new File("C:\\Users\\Kirti Sharma\\Desktop\\Output.jpg");
